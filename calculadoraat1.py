@@ -13,7 +13,8 @@ def dividir (valor1, valor2):
 def potenciacao (valor1, valor2):
     potencia = valor1 ** valor2
     return potencia
-print(" Bem-Vindo a calculadora")
+print("CALCULADORA")
+print("DIGITE A SUA OPRAÇÃO!")
 valor1 = float(input("Insira valor: "))
 operacao = input("Digite operação desejada: ")
 valor2 = float(input("Insira valor: "))

@@ -16,7 +16,8 @@ def potenciacao (valor1, valor2):
 def porcentagem(valor1, valor2):
     porcentagem = (valor1 / 100) * valor2
     return porcentagem
-print(" Bem-Vindo a calculadora")
+print("CALCULADORA")
+print("DIGITE A SUA OPRAÇÃO!")
 valor1 = float(input("Insira valor: "))
 operacao = input("Digite operação desejada: ")
 valor2 = float(input("Insira valor: "))
